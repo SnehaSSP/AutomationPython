@@ -1,2 +1,2 @@
-echo "building the project
+echo "building the project"
 
