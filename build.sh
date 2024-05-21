@@ -1,0 +1,2 @@
+echo "building the project
+
